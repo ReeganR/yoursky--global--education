@@ -9,7 +9,7 @@ function App() {
         <Header />
         <br />
         <Home />
-        <h1 id="welcome-title">Welcome Back, Arizona!</h1>
+        <h1 id="welcome-title">Welcome to YourSky Global Education</h1>
         <section id="grid-container">
           <div className="grid-item one">Item 1</div>
           <div className="grid-item two">Item 2</div>
