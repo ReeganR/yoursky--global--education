@@ -1,6 +1,7 @@
 import "./App.css";
 import { Home } from "./pages/Index";
 import { Header } from "./components/Index";
+import DataTable from "./components/datatable/DataTable";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Header />
         <br />
         <Home />
+        <DataTable />
         <h1 id="welcome-title">Welcome Back, Arizona!</h1>
         <section id="grid-container">
           <div className="grid-item one">Item 1</div>

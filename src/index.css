@@ -187,8 +187,11 @@ primary search bar
   width: 100%;
 }
 
-.box .primary-search-btn {
+.box .secondary-search-btn {
   background-color: var(--searchbg);
+}
+.box .primary-search-btn {
+  background-color: darkgray;
 }
 option:before {
   content: ">";
@@ -245,4 +248,34 @@ option:hover:before {
   .box select {
     width: 100%;
   }
+}
+
+/*
+************************************
+DATA TABLE
+************************************
+*/
+.datatable {
+  width: 100%;
+  max-width: 100%;
+}
+.datatable,
+th,
+td {
+  border: 1px solid black;
+}
+.datatable th,
+td {
+  padding: 0.5em;
+  text-align: left;
+}
+.datatable th {
+  background-color: var(--primarybg);
+  color: white;
+}
+.datatable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.datatable tr:hover {
+  background-color: mintcream;
 }
