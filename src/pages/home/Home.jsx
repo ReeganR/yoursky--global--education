@@ -1,5 +1,5 @@
 import React from "react";
-import { NavSideBar, PrimarySearchBar, Header } from "../../components/Index";
+import { NavSideBar, PrimarySearchBar } from "../../components/Index";
 
 export function Home() {
   return (

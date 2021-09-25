@@ -6,14 +6,15 @@ export function PrimarySearchBar() {
       <form action="">
         <div className="primary-searchbar-contents">
           <div className="input-box">
-            <input placeholder="Search for a course..." />
-            <div>
-              <i className="fas fa-search"></i>
+            <input placeholder="Find a Course here..." />
+            <div class="box">
+              <button className="primary-search-btn">Search</button>
             </div>
+            <div>{/* <i className="fas fa-search"></i> */}</div>
           </div>
           <div class="box">
             <select>
-              <option>Education Level</option>
+              <option>Course Type</option>
               <option>Option 2</option>
               <option>Option 3</option>
               <option>Option 4</option>
@@ -22,7 +23,7 @@ export function PrimarySearchBar() {
           </div>
           <div class="box">
             <select>
-              <option>University</option>
+              <option>Intake</option>
               <option>Option 2</option>
               <option>Option 3</option>
               <option>Option 4</option>
@@ -31,7 +32,7 @@ export function PrimarySearchBar() {
           </div>
           <div class="box">
             <select>
-              <option>Location</option>
+              <option>Country</option>
               <option>Option 2</option>
               <option>Option 3</option>
               <option>Option 4</option>
@@ -39,7 +40,7 @@ export function PrimarySearchBar() {
             </select>
           </div>
           <div class="box">
-            <button className="primary-search-btn">Search</button>
+            <button className="secondary-search-btn">Search</button>
           </div>
         </div>
       </form>
