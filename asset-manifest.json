@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yoursky--global--education/static/css/main.7390b25d.css",
-    "main.js": "/yoursky--global--education/static/js/main.49c6ded6.js",
-    "index.html": "/yoursky--global--education/index.html",
-    "main.7390b25d.css.map": "/yoursky--global--education/static/css/main.7390b25d.css.map",
-    "main.49c6ded6.js.map": "/yoursky--global--education/static/js/main.49c6ded6.js.map"
+    "main.css": "/static/css/main.7390b25d.css",
+    "main.js": "/static/js/main.ad6746e2.js",
+    "index.html": "/index.html",
+    "main.7390b25d.css.map": "/static/css/main.7390b25d.css.map",
+    "main.ad6746e2.js.map": "/static/js/main.ad6746e2.js.map"
   },
   "entrypoints": [
     "static/css/main.7390b25d.css",
-    "static/js/main.49c6ded6.js"
+    "static/js/main.ad6746e2.js"
   ]
 }
