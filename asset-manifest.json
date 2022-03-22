@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yoursky--global--education/static/css/main.7390b25d.css",
+    "main.js": "/yoursky--global--education/static/js/main.c04e9e73.js",
+    "index.html": "/yoursky--global--education/index.html",
+    "main.7390b25d.css.map": "/yoursky--global--education/static/css/main.7390b25d.css.map",
+    "main.c04e9e73.js.map": "/yoursky--global--education/static/js/main.c04e9e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7390b25d.css",
+    "static/js/main.c04e9e73.js"
+  ]
+}
